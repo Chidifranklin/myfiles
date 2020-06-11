@@ -21,7 +21,7 @@ while userinput != 0:
     if userinput in nums:
      
         
-        print("Well done, muggle! You are free now")
+        print("Well done, muggle! You are free now you are smart!!!!")
         
         userinput = int(input("Enter 0 to stop or guess another number:"))
     else:
